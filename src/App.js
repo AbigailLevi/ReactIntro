@@ -9,7 +9,8 @@ function App() {
       <div className="container">
         <div className="row">
           <div className="col">
-            <Button />
+            <Button title="RIGHT HERE!!!" />
+            <Button title="AYOO!!!" />
           </div>
         </div>
 
